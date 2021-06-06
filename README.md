@@ -25,7 +25,7 @@ Use it as you want
 
 
 ## Screenshots
-<img src="mp3.png">
+<img src="foto.png">
 
 ## Web App in Web Site
 http://oguzhancart.likesyou.org/
